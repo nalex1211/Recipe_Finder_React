@@ -1,0 +1,13 @@
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Recipe_Finder.exe
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\appsettings.Development.json
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\appsettings.json
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Recipe_Finder.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Recipe_Finder.deps.json
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Recipe_Finder.runtimeconfig.json
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Recipe_Finder.pdb
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VisualStudio(Projects)\Recipe_Finder\Recipe_Finder\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
